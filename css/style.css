@@ -35,7 +35,7 @@ h1{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    width: 100vw;
+    width: 75vw;
     align-items: center;
     perspective: 500px;
 }
